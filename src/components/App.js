@@ -11,8 +11,8 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
-      <About />
+      <Home name="Ruqaiah" city="Taiz" />
+      <About bio="biooo"/>
     </div>
   );
 }
